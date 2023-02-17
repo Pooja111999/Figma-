@@ -1,0 +1,101 @@
+.container{
+    /* background: rgba(137, 43, 226, 0.662); */
+    width: 100%;
+    height: 100%;
+
+}
+body{
+    background-image: url("map image.png");
+    background-color: white;
+}
+.Span{
+    height: 130px;
+    width: 210px;
+    /* background-color: red; */
+     display: inline-block; 
+    display: flex;
+    margin-top: 55px;
+}
+.icon{
+    margin-left: 80px;
+}
+.home{
+    margin-left: 40px;
+}
+.Berlin{
+justify-content: center;
+text-align: center;
+align-content: center;
+display: flex;
+margin-left: 500px;
+margin-top: -150px;
+border-radius: 8px;
+    border: solid white;
+}
+.Chicanho{
+    margin-left: 300px;
+    border-radius: 8px;
+    border: solid white;
+    margin-top: -20px;
+}
+.Shanghai{
+    margin-left: 850px;
+    border-radius: 8px;
+    border: solid white;
+
+}
+.Manaus{
+    margin-left: 450px;
+margin-top: 40px;
+border-radius: 8px;
+    border: solid white;
+}
+.Giza{
+    margin-left: 650px;
+    border-radius: 8px;
+    border: solid white;
+    margin-bottom: -200px;
+
+}
+.Queensland{
+    margin-left: 950px;
+    border-radius: 8px;
+    border: solid white;
+}
+
+.cul{
+    height: 150px;
+    width: 50px;
+    margin-top: -150px;
+    /* background-color: red; */
+    display: block;
+
+}
+.total{
+    border-radius: 10px;
+    border: solid blueviolet;
+    background-color: blueviolet;
+    color: white;
+}
+.sales{
+    border-radius: 10px;
+    border: solid skyblue;
+    background-color: skyblue;
+    color: white;
+}
+.purchase{
+    border-radius: 10px;
+    border: solid orange;
+    background-color: orange;
+    color: white;
+}
+
+
+ .footer{
+    /* background-image: url("sales.png");
+    background-color: white;
+    background-size: 300px; */
+    margin-left:95px;
+    margin-top: 25px;
+
+}
